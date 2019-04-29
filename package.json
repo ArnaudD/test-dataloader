@@ -1,0 +1,11 @@
+{
+  "name": "test-dataloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dataloader-sequelize": "^1.7.10",
+    "sequelize": "^5.7.6",
+    "sqlite3": "^4.0.6"
+  }
+}
